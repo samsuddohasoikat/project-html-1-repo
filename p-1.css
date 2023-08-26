@@ -1,0 +1,54 @@
+h3{
+    color: brown;
+    text-align: center;
+    text-decoration: dotted;
+    font-size: large;
+    font-style: italic;
+}
+
+p{
+    
+    margin: 20px;
+    color: chocolate;
+    padding: 100px;
+    
+}
+
+.blog{  
+        border: 30px solid rgb(156, 156, 55);
+        border-radius: 200px 20px;
+        border-top: 30px dotted crimson;
+        box-shadow: 20px 20px 20px teal;
+
+}       
+
+.repudiandae{
+        border: 2px solid red;
+        margin: 20px;
+        padding: 20px;
+        color: darkgrey;
+        display: inline-block;
+}
+
+.header{
+        height: 300px;
+     /* background-image: url("controller.jpg"); */
+       background-repeat: repeat-x;
+       background-size: contain;
+    /* height: 300px; */
+    /* width: 300px; */
+        background-image: url('../project-html-1-repo/img/istockphoto-1414160809-612x612.jpg');
+        color: brown;
+        /* margin: 8in; */
+        /* padding: 7in; */
+        text-align: center;
+        
+}
+
+.drill{
+      border: 2px solid cyan;
+      padding: 10px;
+      display: inline-block;
+      height: 100px;
+      background-color: purple;
+}
