@@ -57,4 +57,5 @@ p{
 .second{
          /* sbackground-image: url('./img/istockphoto-1414160809-612x612.jpg'); */
         background-color: bisque;
+        border-radius: 20px;
 }
